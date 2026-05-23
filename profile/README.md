@@ -4,7 +4,6 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey)](https://github.com/zephyr-systems)
 [![Discord](https://img.shields.io/badge/community-Discord-7289da)](https://discord.gg/zephyr) *(coming soon)*
 
@@ -252,14 +251,6 @@ Zephyr builds on and works alongside these excellent tools:
 - **[Zinit](https://github.com/zdharma-continuum/zinit)** – Fast ZSH plugin manager
 - **[Claude Code](https://www.anthropic.com/claude)** – AI assistant with shell execution
 - **[OpenClaw](https://openclaw.ai/)** – Open-source agent framework
-
----
-
-## License
-
-All Zephyr Systems projects are released under the **[MIT License](LICENSE)** unless otherwise specified.
-
-Third-party modules in the ecosystem maintain their own licenses.
 
 ---
 
