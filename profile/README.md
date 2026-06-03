@@ -13,7 +13,7 @@
 
 ## What is Zephyr Systems?
 
-**Zephyr Systems** is an open-source organization dedicated to making autonomous AI agents safer, faster, and more capable through better shell infrastructure.
+**Zephyr Systems** is an organization dedicated to making autonomous AI agents safer, faster, and more capable through better shell infrastructure.
 
 We're building [Zephyr](https://github.com/zephyr-systems/zephyr)—a security-focused shell environment designed from the ground up for AI agents like Claude Code, Codex Computer Use, and similar AI-driven automation systems—along with a growing ecosystem of modules, tools, and integrations.
 
