@@ -192,7 +192,7 @@ Building community and expanding the module marketplace.
 
 ---
 
-## Why Open Source?
+## Beliefs
 
 We believe the infrastructure that powers AI agents should be:
 
@@ -200,8 +200,6 @@ We believe the infrastructure that powers AI agents should be:
 - **Community-driven** – Better modules come from diverse perspectives and use cases
 - **Freely available** – Critical safety infrastructure shouldn't be behind paywalls
 - **Collaborative** – The challenges of agent security are industry-wide
-
-That's why Zephyr and all first-party modules are MIT-licensed and developed in the open.
 
 ---
 
